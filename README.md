@@ -1,5 +1,5 @@
 <center><img src= "https://desarrolloweb.com/storage/tag_images/actual/5HWLla5Sb8604aOcjFD5VtRYBSfK2xwKUnnxZTw8.png" title="SQL" alt ="StructuredQueryLanguage" width="400" height="200"/></center>
-# What is SQL
+<h1> What is SQL </h1>
 
 SQL (Structured Query Language) is a programming language used to communicate with and manipulate databases. To get the most of the mounds of data they collect, many businesses must become versed in SQL. Companies and other organizations use SQL programs to access and manipulate information and data in their databases and to create and modify new tables. To understand SQL well, it is good to know what a **database** is.
 
